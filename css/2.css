@@ -37,9 +37,10 @@ a{
     display: inline-block;
     text-align: center;
     float: right;
-    margin-top: 300px;
+    margin-top: 200px;
     text-decoration: none;
     color: #fff;
-    padding: 50px;
-    background-color: royalblue;
+    padding: 25px 40px;
+    background-color: #a11c96;
+    box-shadow: -7px 1px 22px 8px rgba(180,31,168,0.76);
 }
