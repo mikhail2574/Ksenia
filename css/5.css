@@ -16,7 +16,7 @@ h1{
 div{
     width: 90%;
     margin: 0 auto;
-    font-size: 28px;
+    font-size: 22px;
     color: #ce2ac0;
 }
 button{
@@ -26,6 +26,9 @@ button{
 }
 input{
     margin-left: 5%;
+}
+a{
+    font-size:28px;
 }
 .link{
     margin-top: 20px;
