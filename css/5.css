@@ -8,22 +8,27 @@ body{
     background-color: pink;
 }
 h1{
-    color: #a11c96;
-    font-size: 40px;
-    margin-top: 60px;
-    text-align: center;
-    margin-bottom: 20px;
+    margin-top: 10px;
+    margin-left: 30px;
+    color:#a11c96;
+    font-size: 48px;
 }
 div{
-    width: 80%;
+    width: 90%;
     margin: 0 auto;
-    border-right: 3px solid rgb(228, 107, 127);
-    border-radius: 3px;
+    font-size: 28px;
     color: #ce2ac0;
-    font-size: 18px;
 }
-a{
-    margin-top: 50px;
+button{
+    background-color: plum;
+    border: 2px solid rgb(192, 116, 192);
+    padding: 10px 20px;
+}
+input{
+    margin-left: 5%;
+}
+.link{
+    margin-top: 20px;
     font-size: 30px;
     display: inline-block;
     text-align: center;
